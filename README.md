@@ -1,4 +1,4 @@
-# ComplexSystems
+# Methods in Complex Systems
 
 ## Setup
 
