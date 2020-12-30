@@ -34,21 +34,21 @@ For each Lab the following will be submitted the following week to your Github:
 3) Report Reformatted into Presentation Slides
 
 ## Course Topical Outline
-Week 1: Agent-based Model
-Week 2: Stochastic Processes Random Walks
-Week 3: Gradient Descent
-Week 4: Monte Carlo Methods Simulated Annealing
-Week 5: Non-convex Optimization Particle Swarm Optimization
-Week 6: Linear Models
-Week 7: Nonlinear Models Neural Networks
-Week 8: Loading and Manipulating Data
-Week 9: Representations and Visualization
-Week 10: Convolution 
-Week 11: Dot-product Attention Units
-Week 12: Dynamical Systems Simulation
-Week 13: Dynamical Systems Simulation II
-Week 14: Generative Models
-Week 15: Adversarial Networks
+* Week 1: Agent-based Model
+* Week 2: Stochastic Processes Random Walks
+* Week 3: Gradient Descent
+* Week 4: Monte Carlo Methods Simulated Annealing
+* Week 5: Non-convex Optimization Particle Swarm Optimization
+* Week 6: Linear Models
+* Week 7: Nonlinear Models Neural Networks
+* Week 8: Loading and Manipulating Data
+* Week 9: Representations and Visualization
+* Week 10: Convolution 
+* Week 11: Dot-product Attention Units
+* Week 12: Dynamical Systems Simulation
+* Week 13: Dynamical Systems Simulation II
+* Week 14: Generative Models
+* Week 15: Adversarial Networks
 
 
 ## Slides
