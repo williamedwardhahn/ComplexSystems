@@ -40,5 +40,6 @@ For each Lab the following will be submitted the following week to your Github:
 <a href='https://www.youtube.com/watch?v=WllJrHX_3ZI'>Beauty in physics, mathematics and biology, Gregory Chaitin</a>
 
 ## Readings
-Please read the  "Appendix: The Computational Roots of Agent-Based Modeling" (pages 431-445 in book page numbers and 454-468 in pdf page numbers)
+* Please read Agent_Based_Models.pdf "Appendix: The Computational Roots of Agent-Based Modeling" (pages 431-445 in book page numbers and 454-468 in pdf page numbers)
 
+* Read thru section 1.2 in Optimization.pdf
