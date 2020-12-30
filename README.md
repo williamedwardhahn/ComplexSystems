@@ -60,7 +60,9 @@ https://docs.google.com/presentation/d/1dhsaqSF3eITIOZq_CN3nxSEjZAp4suaW9tiyCcKL
 
 <a href='https://www.youtube.com/watch?v=WllJrHX_3ZI'>Beauty in physics, mathematics and biology, Gregory Chaitin</a>
 
-<a href='https://www.youtube.com/watch?v=QKKD-_VxxFA'>Leibniz on Complexity, Gregory Chaitin</a> 
+<a href='https://www.youtube.com/watch?v=QKKD-_VxxFA'>Leibniz on Complexity, Gregory Chaitin</a>
+
+<a href='https://www.youtube.com/watch?v=rPLvj-GcfSU'> Alan Turing, Cybernetics and the Secrets of Life</a>
 
 
 
