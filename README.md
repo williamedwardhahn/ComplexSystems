@@ -34,13 +34,16 @@ For each Lab the following will be submitted the following week to your Github:
 3) Report Reformatted into Presentation Slides
 
 
+## Slides
+https://docs.google.com/presentation/d/1dhsaqSF3eITIOZq_CN3nxSEjZAp4suaW9tiyCcKLwSg/edit?usp=sharing
+
+
 ## Videos
 <a href='https://www.youtube.com/watch?v=EKWGGDXe5MA'>Richard Feynman Computer Heuristics Lecture</a> 
 
 <a href='https://www.youtube.com/watch?v=WllJrHX_3ZI'>Beauty in physics, mathematics and biology, Gregory Chaitin</a>
 
 <a href='https://www.youtube.com/watch?v=QKKD-_VxxFA'>Leibniz on Complexity, Gregory Chaitin</a> 
-
 
 
 
