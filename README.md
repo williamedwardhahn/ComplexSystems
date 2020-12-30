@@ -73,6 +73,12 @@ https://docs.google.com/presentation/d/1dhsaqSF3eITIOZq_CN3nxSEjZAp4suaW9tiyCcKL
 
 * Some Great Myths of the History of Computing
 
+* Turing 1948
+
+* Turing 1950
+
+* Turing 1996
+
 ## Notebooks
 List of Metaphor Based Metaheuristics - https://en.wikipedia.org/wiki/List_of_metaphor-based_metaheuristics
 
