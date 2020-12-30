@@ -34,7 +34,7 @@ For each Lab the following will be submitted the following week to your Github:
 3) Report Reformatted into Presentation Slides
 
 ## Course Topical Outline
-* Week 1: Agent-based Model
+* Week 1: Agent-based Models
 * Week 2: Stochastic Processes Random Walks
 * Week 3: Gradient Descent
 * Week 4: Monte Carlo Methods Simulated Annealing
