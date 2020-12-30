@@ -53,15 +53,15 @@ For each Lab the following will be submitted the following week to your Github:
 
 
 ## Notebooks
+List of Metaphor Based Metaheuristics - https://en.wikipedia.org/wiki/List_of_metaphor-based_metaheuristics
+
 Random Walk - https://colab.research.google.com/drive/1uaxnLSrwAoNLoxNVHiniaZ-bSAjmtSIx?usp=sharing
 
 Random Walk2 - https://colab.research.google.com/drive/1nGo3ZyI5ZWbo8EzDZzMlt-Qgs2VLU3QF?usp=sharing
 
-List of Metaphor Based Metaheuristics - https://en.wikipedia.org/wiki/List_of_metaphor-based_metaheuristics
-
 SA https://colab.research.google.com/drive/1FuIDVMJROQ0-Rz0j7_TdA8xAuH_7ZjOe?usp=sharing
 
-SA TSP - https://colab.research.google.com/drive/1iXzwIunLzpwY641gQkE-Up0yJ1ANbvmQ?usp=sharing
+TSP - https://colab.research.google.com/drive/1iXzwIunLzpwY641gQkE-Up0yJ1ANbvmQ?usp=sharing
 
 ACO - https://colab.research.google.com/drive/1Zc_34O5DlaBEILdnoGU8OTu4fa9rBhKK?usp=sharing
 
@@ -71,7 +71,7 @@ Sudoku - https://colab.research.google.com/drive/11Br_Wg-0LcVL3nqfH5dGbd8ri9pM2o
 
 Dual Numbers - https://colab.research.google.com/drive/1ozQf-cf92bXWXqluITeZo0v9Y7hJ3ELz?usp=sharing
 
-Linear MNIST-
+Linear MNIST 
 
 
 
