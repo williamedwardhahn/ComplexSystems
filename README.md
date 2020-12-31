@@ -66,6 +66,12 @@ https://docs.google.com/presentation/d/1dhsaqSF3eITIOZq_CN3nxSEjZAp4suaW9tiyCcKL
 
 <a href='https://www.youtube.com/watch?v=G_2yGCdLLCg'>The Computer Chronicles - Parallel Processing</a>
 
+<a href='https://www.youtube.com/watch?v=IjmostrFetg'>Connection Machine Applications</a>
+
+<a href='https://www.youtube.com/watch?v=BVtHh9JoS3s'>Connection Machine CM-1 & CM-2</a>
+
+
+
 
 
 ## Readings
