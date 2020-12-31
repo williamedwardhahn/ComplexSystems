@@ -64,6 +64,8 @@ https://docs.google.com/presentation/d/1dhsaqSF3eITIOZq_CN3nxSEjZAp4suaW9tiyCcKL
 
 <a href='https://www.youtube.com/watch?v=rPLvj-GcfSU'> Alan Turing, Cybernetics and the Secrets of Life</a>
 
+<a href='https://www.youtube.com/watch?v=G_2yGCdLLCg'>The Computer Chronicles - Parallel Processing</a>
+
 
 
 ## Readings
