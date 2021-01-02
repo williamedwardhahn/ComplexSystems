@@ -78,9 +78,9 @@ https://docs.google.com/presentation/d/1dhsaqSF3eITIOZq_CN3nxSEjZAp4suaW9tiyCcKL
 
 ## Readings
 
-* Read Appendix Mathematics, Deep Learning, PyTorch DRL.pdf
+* Read DRL.pdf : "Appendix Mathematics, Deep Learning, PyTorch" 
 
-* Please read Agent_Based_Models.pdf "Appendix: The Computational Roots of Agent-Based Modeling" (pages 431-445 in book page numbers and 454-468 in pdf page numbers)
+* Please read Agent_Based_Models.pdf "Appendix: The Computational Roots of Agent-Based Modeling" 
 
 * Read thru section 1.2 in Optimization.pdf
 
@@ -117,7 +117,7 @@ Sudoku - https://colab.research.google.com/drive/11Br_Wg-0LcVL3nqfH5dGbd8ri9pM2o
 
 Dual Numbers - https://colab.research.google.com/drive/1ozQf-cf92bXWXqluITeZo0v9Y7hJ3ELz?usp=sharing
 
-Linear MNIST 
+Linear MNIST - https://colab.research.google.com/drive/1Kf9qkNLxLkCANZpFZ6jqR3KFP2duJO6O?usp=sharing
 
 
 
