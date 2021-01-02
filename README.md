@@ -91,6 +91,8 @@ https://docs.google.com/presentation/d/1dhsaqSF3eITIOZq_CN3nxSEjZAp4suaW9tiyCcKL
 
 * Turing 1996
 
+* The dry history of liquid computers https://arxiv.org/pdf/1811.09989.pdf 
+
 ## Notebooks
 List of Metaphor Based Metaheuristics - https://en.wikipedia.org/wiki/List_of_metaphor-based_metaheuristics
 
