@@ -77,6 +77,9 @@ https://docs.google.com/presentation/d/1dhsaqSF3eITIOZq_CN3nxSEjZAp4suaW9tiyCcKL
 
 
 ## Readings
+
+* Read Appendix Mathematics, Deep Learning, PyTorch DRL.pdf
+
 * Please read Agent_Based_Models.pdf "Appendix: The Computational Roots of Agent-Based Modeling" (pages 431-445 in book page numbers and 454-468 in pdf page numbers)
 
 * Read thru section 1.2 in Optimization.pdf
@@ -93,7 +96,7 @@ https://docs.google.com/presentation/d/1dhsaqSF3eITIOZq_CN3nxSEjZAp4suaW9tiyCcKL
 
 * Read History of liquid computers Liquid.pdf
 
-* Read Appendix Mathematics, Deep Learning, PyTorch DRL.pdf
+
 
 ## Notebooks
 List of Metaphor Based Metaheuristics - https://en.wikipedia.org/wiki/List_of_metaphor-based_metaheuristics
