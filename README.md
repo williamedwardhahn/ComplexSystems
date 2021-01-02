@@ -83,15 +83,17 @@ https://docs.google.com/presentation/d/1dhsaqSF3eITIOZq_CN3nxSEjZAp4suaW9tiyCcKL
 
 * Read Optimization.pdf through 2.3.1 on page 30. 
 
-* Some Great Myths of the History of Computing
+* Read Myths of the History of Computing
 
-* Turing 1948
+* Read Turing 1948
 
-* Turing 1950
+* Read Turing 1950
 
-* Turing 1996
+* Read Turing 1996
 
-* The dry history of liquid computers https://arxiv.org/pdf/1811.09989.pdf 
+* Read History of liquid computers Liquid.pdf
+
+* Read Appendix Mathematics, Deep Learning, PyTorch DRL.pdf
 
 ## Notebooks
 List of Metaphor Based Metaheuristics - https://en.wikipedia.org/wiki/List_of_metaphor-based_metaheuristics
