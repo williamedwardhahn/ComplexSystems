@@ -10,6 +10,14 @@ Intro to Github, Colab, and Overleaf: https://www.youtube.com/watch?v=50wdMpfO9t
 
 Github: https://github.com/join
 
+Github Commands:
+
+* git clone url
+* git status
+* git add .
+* git commit -m "update"
+* git push origin
+
 
 Colab: https://colab.research.google.com/notebooks/welcome.ipynb
 
