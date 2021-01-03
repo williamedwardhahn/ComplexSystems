@@ -80,8 +80,33 @@ https://docs.google.com/presentation/d/1dhsaqSF3eITIOZq_CN3nxSEjZAp4suaW9tiyCcKL
 
 <a href='https://www.youtube.com/watch?v=Wl5rRGVD0QI'>Project Tierra</a>
 
+<a href='https://www.youtube.com/watch?v=NXkkr0REEPI'>History of Computer Graphics (1972)</a>
 
+<a href='https://www.youtube.com/watch?v=FuKREmsiD9o'>Sketchpad 1/3 (1963)</a>
 
+<a href='https://www.youtube.com/watch?v=hB3jQKGrJo0'>Sketchpad 2/3 (1963)</a>
+
+<a href='https://www.youtube.com/watch?v=t3ZsiBMnGSg'>Sketchpad 3/3 (1963)</a>
+
+<a href='https://www.youtube.com/watch?v=gCgKh3vtOD0'>Bio-Sensor (1984)</a>
+
+<a href='https://www.youtube.com/watch?v=gL7YiApRvFY'>Natural Phenomena (1988)</a>
+
+<a href='https://www.youtube.com/watch?v=ckE5U9FsgsE'>Silicon Graphics Promo (1987)</a>
+
+<a href='https://www.youtube.com/watch?v=ckE5U9FsgsE'>Pixar Visualization on Image Computer (1987)</a>
+
+<a href='https://www.youtube.com/watch?v=06mbwNg1Vw4'>Evans & Sutherland 'The Tactical Edge' 1/2</a>
+
+<a href='https://www.youtube.com/watch?v=7e7_GiCc-HA'>Evans & Sutherland 'The Tactical Edge' 2/2</a>
+
+<a href='https://www.youtube.com/watch?v=6W-qb_jHRhA'>Evans & Sutherland CT5 Flight Simulator (1981)</a>
+
+<a href='https://www.youtube.com/watch?v=nRBQHEahHpA'>Magi and the History of Computer Animation</a>
+
+<a href='https://www.youtube.com/watch?v=03p2CADwGF8'>The Lighthill debate on Artificial Intelligence</a>
+
+<a href='https://vimeo.com/183223069'>The Machine that Changed the World 1/5</a>
 
 
 ## Readings
