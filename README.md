@@ -152,8 +152,10 @@ Dual Numbers - https://colab.research.google.com/drive/1ozQf-cf92bXWXqluITeZo0v9
 
 Linear MNIST - https://colab.research.google.com/drive/1Kf9qkNLxLkCANZpFZ6jqR3KFP2duJO6O?usp=sharing
 
+Convolution and PDE - https://colab.research.google.com/drive/1kf9AZatPxjy6Hd8KizG1lJh7mHX1T8Fy?usp=sharing
 
+Wirewolrd - https://colab.research.google.com/drive/1kIQySWs_20iqEHlWwgxBcZ3qGy78Lj_0?usp=sharing
 
-
+Convolutional Neural Network - https://colab.research.google.com/drive/1lBq2AR6AS4PHPTNMHQVbH-pyp5UNgEGF?usp=sharing
 
 
