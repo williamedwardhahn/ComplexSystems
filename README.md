@@ -158,4 +158,11 @@ Wirewolrd - https://colab.research.google.com/drive/1kIQySWs_20iqEHlWwgxBcZ3qGy7
 
 Convolutional Neural Network - https://colab.research.google.com/drive/1lBq2AR6AS4PHPTNMHQVbH-pyp5UNgEGF?usp=sharing
 
+Autoencoder - https://colab.research.google.com/drive/1LngBKwWdbfD28Hn-OyIW1Ib9p2wsEdYK?usp=sharing
+
+Generative Adversarial Network - https://colab.research.google.com/drive/1zP2y8ZVaDeq8bOxwoMBjvNVBVlb4Jmca?usp=sharing
+
+Chua Network - https://colab.research.google.com/drive/1Q5hk-p3Djgj9CK0UDU38ca8VLBUqpWL1?usp=sharing
+
+
 
