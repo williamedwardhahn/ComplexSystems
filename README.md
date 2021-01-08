@@ -164,5 +164,6 @@ Generative Adversarial Network - https://colab.research.google.com/drive/1zP2y8Z
 
 Chua Network - https://colab.research.google.com/drive/1Q5hk-p3Djgj9CK0UDU38ca8VLBUqpWL1?usp=sharing
 
+LSTM Autoencoders - https://colab.research.google.com/drive/150c96VwdNgITVAqwzb-wckGyFD3tEJUj?usp=sharing
 
 
