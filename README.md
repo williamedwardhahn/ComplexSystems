@@ -160,7 +160,7 @@ Convolutional Neural Network - https://colab.research.google.com/drive/1lBq2AR6A
 
 Autoencoder - https://colab.research.google.com/drive/1LngBKwWdbfD28Hn-OyIW1Ib9p2wsEdYK?usp=sharing
 
-Generative Adversarial Network - https://colab.research.google.com/drive/1zP2y8ZVaDeq8bOxwoMBjvNVBVlb4Jmca?usp=sharing
+Generative Networks - https://colab.research.google.com/drive/1zP2y8ZVaDeq8bOxwoMBjvNVBVlb4Jmca?usp=sharing
 
 Chua Network - https://colab.research.google.com/drive/1Q5hk-p3Djgj9CK0UDU38ca8VLBUqpWL1?usp=sharing
 
