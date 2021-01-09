@@ -108,6 +108,8 @@ https://docs.google.com/presentation/d/1dhsaqSF3eITIOZq_CN3nxSEjZAp4suaW9tiyCcKL
 
 <a href='https://vimeo.com/183223069'>The Machine that Changed the World 1/5</a>
 
+<a href='https://www.youtube.com/watch?v=_qAcUDZQktQ&list=PLWmIsQcAzRkpyr86prjrzzpIrC_ZpEE1f'>Chua Lectures</a>
+
 
 ## Readings
 
