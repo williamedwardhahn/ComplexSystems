@@ -131,10 +131,10 @@ https://docs.google.com/presentation/d/1dhsaqSF3eITIOZq_CN3nxSEjZAp4suaW9tiyCcKL
 
 * Read History of liquid computers Liquid.pdf
 
+* List of Metaphor Based Metaheuristics - https://en.wikipedia.org/wiki/List_of_metaphor-based_metaheuristics
 
 
 ## Notebooks
-List of Metaphor Based Metaheuristics - https://en.wikipedia.org/wiki/List_of_metaphor-based_metaheuristics
 
 Random Walk - https://colab.research.google.com/drive/1uaxnLSrwAoNLoxNVHiniaZ-bSAjmtSIx?usp=sharing
 
