@@ -158,6 +158,8 @@ Convolution and PDE - https://colab.research.google.com/drive/1kf9AZatPxjy6Hd8Ki
 
 Wirewolrd - https://colab.research.google.com/drive/1kIQySWs_20iqEHlWwgxBcZ3qGy78Lj_0?usp=sharing
 
+Turing Machine - https://colab.research.google.com/drive/1Dvw0fE_K4o9uMFPIoR5aRHIf5vRodoIU?usp=sharing
+
 Convolutional Neural Network - https://colab.research.google.com/drive/1lBq2AR6AS4PHPTNMHQVbH-pyp5UNgEGF?usp=sharing
 
 Autoencoder - https://colab.research.google.com/drive/1LngBKwWdbfD28Hn-OyIW1Ib9p2wsEdYK?usp=sharing
