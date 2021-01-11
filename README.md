@@ -152,13 +152,13 @@ Sudoku - https://colab.research.google.com/drive/11Br_Wg-0LcVL3nqfH5dGbd8ri9pM2o
 
 Dual Numbers - https://colab.research.google.com/drive/1ozQf-cf92bXWXqluITeZo0v9Y7hJ3ELz?usp=sharing
 
-Linear MNIST - https://colab.research.google.com/drive/1Kf9qkNLxLkCANZpFZ6jqR3KFP2duJO6O?usp=sharing
-
 Convolution and PDE - https://colab.research.google.com/drive/1kf9AZatPxjy6Hd8KizG1lJh7mHX1T8Fy?usp=sharing
 
 Wireworld - https://colab.research.google.com/drive/1kIQySWs_20iqEHlWwgxBcZ3qGy78Lj_0?usp=sharing
 
 Turing Machine - https://colab.research.google.com/drive/1Dvw0fE_K4o9uMFPIoR5aRHIf5vRodoIU?usp=sharing
+
+Linear MNIST - https://colab.research.google.com/drive/1Kf9qkNLxLkCANZpFZ6jqR3KFP2duJO6O?usp=sharing
 
 Convolutional Neural Network - https://colab.research.google.com/drive/1lBq2AR6AS4PHPTNMHQVbH-pyp5UNgEGF?usp=sharing
 
