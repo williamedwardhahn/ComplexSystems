@@ -1,5 +1,7 @@
 # Methods in Complex Systems
 
+<img src='https://www.ausableriver.org/sites/default/files/images/Diatom.png'>
+
 ## Setup
 
 Start here and familiarize yourself with the tools we will be using:
