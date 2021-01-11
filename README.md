@@ -1,6 +1,6 @@
 # Methods in Complex Systems
 
-<img src='https://www.ausableriver.org/sites/default/files/images/Diatom.png'>
+<img src='https://www.ausableriver.org/sites/default/files/images/Diatom.png' width="400">
 
 ## Setup
 
