@@ -156,7 +156,7 @@ Linear MNIST - https://colab.research.google.com/drive/1Kf9qkNLxLkCANZpFZ6jqR3KF
 
 Convolution and PDE - https://colab.research.google.com/drive/1kf9AZatPxjy6Hd8KizG1lJh7mHX1T8Fy?usp=sharing
 
-Wirewolrd - https://colab.research.google.com/drive/1kIQySWs_20iqEHlWwgxBcZ3qGy78Lj_0?usp=sharing
+Wireworld - https://colab.research.google.com/drive/1kIQySWs_20iqEHlWwgxBcZ3qGy78Lj_0?usp=sharing
 
 Turing Machine - https://colab.research.google.com/drive/1Dvw0fE_K4o9uMFPIoR5aRHIf5vRodoIU?usp=sharing
 
