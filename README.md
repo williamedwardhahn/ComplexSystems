@@ -173,3 +173,5 @@ Chua Network - https://colab.research.google.com/drive/1Q5hk-p3Djgj9CK0UDU38ca8V
 LSTM Autoencoders - https://colab.research.google.com/drive/150c96VwdNgITVAqwzb-wckGyFD3tEJUj?usp=sharing
 
 Compressed Sensing - https://colab.research.google.com/drive/1Plu_pq5IkFSB4ff-_hgeRk74G12r5VZu?usp=sharing
+
+Izhikevich Neuron - https://colab.research.google.com/drive/1uB4LseklU6fEWVhNMDVOSvL0IrjwzDTr?usp=sharing
