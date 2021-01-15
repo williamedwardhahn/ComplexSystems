@@ -113,6 +113,8 @@ https://docs.google.com/presentation/d/1dhsaqSF3eITIOZq_CN3nxSEjZAp4suaW9tiyCcKL
 <a href='https://www.youtube.com/watch?v=_qAcUDZQktQ&list=PLWmIsQcAzRkpyr86prjrzzpIrC_ZpEE1f'>Chua Lectures</a>
 
 
+
+
 ## Readings
 
 * Read DRL.pdf : "Appendix Mathematics, Deep Learning, PyTorch" 
@@ -134,6 +136,8 @@ https://docs.google.com/presentation/d/1dhsaqSF3eITIOZq_CN3nxSEjZAp4suaW9tiyCcKL
 * Read History of liquid computers Liquid.pdf
 
 * List of Metaphor Based Metaheuristics - https://en.wikipedia.org/wiki/List_of_metaphor-based_metaheuristics
+
+* The Mind of Mechanical Man - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2050428/pdf/brmedj03683-0003.pdf
 
 
 ## Notebooks
