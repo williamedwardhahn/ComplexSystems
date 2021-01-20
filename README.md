@@ -146,6 +146,8 @@ Random Walk - https://colab.research.google.com/drive/1uaxnLSrwAoNLoxNVHiniaZ-bS
 
 Random Walk2 - https://colab.research.google.com/drive/1nGo3ZyI5ZWbo8EzDZzMlt-Qgs2VLU3QF?usp=sharing
 
+Percolation - https://colab.research.google.com/drive/1WsnJu04hnZCcP1ZJk3eSrA9ST9P4Cylu?usp=sharing
+
 Boids - https://colab.research.google.com/drive/1v76j1jEJYwkxFwhAPLHdslXm_tpBy8Pd?usp=sharing
 
 SA https://colab.research.google.com/drive/1FuIDVMJROQ0-Rz0j7_TdA8xAuH_7ZjOe?usp=sharing
