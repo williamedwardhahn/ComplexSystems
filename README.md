@@ -146,6 +146,8 @@ Random Walk - https://colab.research.google.com/drive/1uaxnLSrwAoNLoxNVHiniaZ-bS
 
 Random Walk2 - https://colab.research.google.com/drive/1nGo3ZyI5ZWbo8EzDZzMlt-Qgs2VLU3QF?usp=sharing
 
+Boids - https://colab.research.google.com/drive/1v76j1jEJYwkxFwhAPLHdslXm_tpBy8Pd?usp=sharing
+
 SA https://colab.research.google.com/drive/1FuIDVMJROQ0-Rz0j7_TdA8xAuH_7ZjOe?usp=sharing
 
 TSP - https://colab.research.google.com/drive/1iXzwIunLzpwY641gQkE-Up0yJ1ANbvmQ?usp=sharing
