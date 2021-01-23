@@ -180,8 +180,6 @@ Chua Network - https://colab.research.google.com/drive/1Q5hk-p3Djgj9CK0UDU38ca8V
 
 LSTM - https://colab.research.google.com/drive/13B0aWLKqsnqNMv8UyDAz5woa8l_Lm8mB?usp=sharing
 
-LSTM Autoencoders - https://colab.research.google.com/drive/150c96VwdNgITVAqwzb-wckGyFD3tEJUj?usp=sharing
-
 Compressed Sensing - https://colab.research.google.com/drive/1Plu_pq5IkFSB4ff-_hgeRk74G12r5VZu?usp=sharing
 
 LCA GPU - https://colab.research.google.com/drive/11cI42s0OskZFFWbhC2CO8ww4UN3oAgVF?usp=sharing
