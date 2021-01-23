@@ -184,4 +184,10 @@ LSTM Autoencoders - https://colab.research.google.com/drive/150c96VwdNgITVAqwzb-
 
 Compressed Sensing - https://colab.research.google.com/drive/1Plu_pq5IkFSB4ff-_hgeRk74G12r5VZu?usp=sharing
 
+LCA GPU - https://colab.research.google.com/drive/11cI42s0OskZFFWbhC2CO8ww4UN3oAgVF?usp=sharing
+
+LCA TPU - https://colab.research.google.com/drive/17kLEZrpRAuHs5hUvceTR9hA5r3c2LCFf?usp=sharing
+
+X Cubed Dictionary - https://colab.research.google.com/drive/1rZYUj74lgXW4EjKtvcRndBGfa7ZO2X5L?usp=sharing
+
 Izhikevich Neuron - https://colab.research.google.com/drive/1uB4LseklU6fEWVhNMDVOSvL0IrjwzDTr?usp=sharing
