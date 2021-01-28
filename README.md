@@ -139,6 +139,7 @@ https://docs.google.com/presentation/d/1dhsaqSF3eITIOZq_CN3nxSEjZAp4suaW9tiyCcKL
 
 * The Mind of Mechanical Man - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2050428/pdf/brmedj03683-0003.pdf
 
+* Convolution Arithmetic https://github.com/vdumoulin/conv_arithmetic
 
 ## Notebooks
 
