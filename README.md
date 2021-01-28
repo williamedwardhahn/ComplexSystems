@@ -141,6 +141,8 @@ https://docs.google.com/presentation/d/1dhsaqSF3eITIOZq_CN3nxSEjZAp4suaW9tiyCcKL
 
 * Convolution Arithmetic https://github.com/vdumoulin/conv_arithmetic
 
+* Theory of self-reproducing automata by Von Neumann https://archive.org/details/theoryofselfrepr00vonn_0
+
 ## Notebooks
 
 Random Walk - https://colab.research.google.com/drive/1uaxnLSrwAoNLoxNVHiniaZ-bSAjmtSIx?usp=sharing
