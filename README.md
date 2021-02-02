@@ -112,6 +112,7 @@ https://docs.google.com/presentation/d/1dhsaqSF3eITIOZq_CN3nxSEjZAp4suaW9tiyCcKL
 
 <a href='https://www.youtube.com/watch?v=_qAcUDZQktQ&list=PLWmIsQcAzRkpyr86prjrzzpIrC_ZpEE1f'>Chua Lectures</a>
 
+<a href='https://www.youtube.com/watch?v=Ys7v7lnLgbM'>Understanding the Analog Computer</a>
 
 
 
