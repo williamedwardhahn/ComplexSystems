@@ -195,3 +195,5 @@ LCA TPU - https://colab.research.google.com/drive/17kLEZrpRAuHs5hUvceTR9hA5r3c2L
 X Cubed Dictionary - https://colab.research.google.com/drive/1rZYUj74lgXW4EjKtvcRndBGfa7ZO2X5L?usp=sharing
 
 Izhikevich Neuron - https://colab.research.google.com/drive/1uB4LseklU6fEWVhNMDVOSvL0IrjwzDTr?usp=sharing
+
+Wolfram Automata - https://colab.research.google.com/drive/1ketaUHO4KdVsGwDjgGp9M7SVQNG5bxiU?usp=sharing
