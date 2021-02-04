@@ -197,3 +197,5 @@ X Cubed Dictionary - https://colab.research.google.com/drive/1rZYUj74lgXW4EjKtvc
 Izhikevich Neuron - https://colab.research.google.com/drive/1uB4LseklU6fEWVhNMDVOSvL0IrjwzDTr?usp=sharing
 
 Wolfram Automata - https://colab.research.google.com/drive/1ketaUHO4KdVsGwDjgGp9M7SVQNG5bxiU?usp=sharing
+
+Wolfram Automata 2 - https://colab.research.google.com/drive/1v7iEiXEMq-2YBWQwZ8q8y_slWBNdEcQo?usp=sharing
