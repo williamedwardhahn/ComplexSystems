@@ -199,3 +199,7 @@ Izhikevich Neuron - https://colab.research.google.com/drive/1uB4LseklU6fEWVhNMDV
 Wolfram Automata - https://colab.research.google.com/drive/1ketaUHO4KdVsGwDjgGp9M7SVQNG5bxiU?usp=sharing
 
 Wolfram Automata 2 - https://colab.research.google.com/drive/1v7iEiXEMq-2YBWQwZ8q8y_slWBNdEcQo?usp=sharing
+
+Reservoir Computing - https://colab.research.google.com/drive/1kS6hMAy4WXdA_IZej3sbXHdkjBVWbvrW?usp=sharing
+
+Extreme Learning Machine - https://colab.research.google.com/drive/1i1ywkkuyYQclX8asz0N0cMAA2x8gxQwf?usp=sharing
