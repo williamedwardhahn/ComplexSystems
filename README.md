@@ -203,3 +203,7 @@ Wolfram Automata 2 - https://colab.research.google.com/drive/1v7iEiXEMq-2YBWQwZ8
 Reservoir Computing - https://colab.research.google.com/drive/1kS6hMAy4WXdA_IZej3sbXHdkjBVWbvrW?usp=sharing
 
 Extreme Learning Machine - https://colab.research.google.com/drive/1i1ywkkuyYQclX8asz0N0cMAA2x8gxQwf?usp=sharing
+
+Hypervectors - https://colab.research.google.com/drive/1WL_fr5TP-MLf-0kFKfBzu65wC5cL4daI?usp=sharing
+
+PDE Network - https://colab.research.google.com/drive/1R_Gf_7qHLrhJgJvw1lup33EZAb9hCMB7?usp=sharing
