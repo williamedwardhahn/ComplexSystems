@@ -174,7 +174,9 @@ Wireworld - https://colab.research.google.com/drive/1kIQySWs_20iqEHlWwgxBcZ3qGy7
 
 Turing Machine - https://colab.research.google.com/drive/1Dvw0fE_K4o9uMFPIoR5aRHIf5vRodoIU?usp=sharing
 
-Linear MNIST - https://colab.research.google.com/drive/1Kf9qkNLxLkCANZpFZ6jqR3KFP2duJO6O?usp=sharing
+Linear MNIST - https://colab.research.google.com/drive/1hvsRSiaAKzXiM4yMxaXLyCd5fUFZnBVk?usp=sharing
+
+Linear MNIST 2 - https://colab.research.google.com/drive/1Kf9qkNLxLkCANZpFZ6jqR3KFP2duJO6O?usp=sharing
 
 Convolutional Neural Network - https://colab.research.google.com/drive/1lBq2AR6AS4PHPTNMHQVbH-pyp5UNgEGF?usp=sharing
 
