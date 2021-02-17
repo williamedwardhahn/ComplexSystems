@@ -214,3 +214,6 @@ PDE Network - https://colab.research.google.com/drive/1R_Gf_7qHLrhJgJvw1lup33EZA
 
 Automata Roll - https://colab.research.google.com/drive/1IeQs9Wh6WrdUUoUDiWDDd25nBdsZbCz0?usp=sharing
 
+Alexnet - https://colab.research.google.com/drive/1dTvnh39fHOtMABnUtNJW_ylZoEZzehj8?usp=sharing
+
+
