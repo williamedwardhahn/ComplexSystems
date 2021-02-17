@@ -66,6 +66,9 @@ https://docs.google.com/presentation/d/1dhsaqSF3eITIOZq_CN3nxSEjZAp4suaW9tiyCcKL
 
 
 ## Videos
+
+<a href='https://www.youtube.com/watch?v=ihkRwArnc1k&list=PLWmIsQcAzRkqnbTsHJwA645F2NQDssN0Q'>Circuits in Stone</a>
+
 <a href='https://www.youtube.com/watch?v=EKWGGDXe5MA'>Richard Feynman Computer Heuristics Lecture</a> 
 
 <a href='https://www.youtube.com/watch?v=WllJrHX_3ZI'>Beauty in physics, mathematics and biology, Gregory Chaitin</a>
