@@ -212,4 +212,5 @@ PDE Raindrops - https://colab.research.google.com/drive/13J8tUsqhCVJAWa740TQarNj
 
 PDE Network - https://colab.research.google.com/drive/1R_Gf_7qHLrhJgJvw1lup33EZAb9hCMB7?usp=sharing
 
+Automata Roll - https://colab.research.google.com/drive/1IeQs9Wh6WrdUUoUDiWDDd25nBdsZbCz0?usp=sharing
 
