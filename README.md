@@ -219,4 +219,6 @@ Automata Roll - https://colab.research.google.com/drive/1IeQs9Wh6WrdUUoUDiWDDd25
 
 Alexnet - https://colab.research.google.com/drive/1dTvnh39fHOtMABnUtNJW_ylZoEZzehj8?usp=sharing
 
+RAM Model - https://colab.research.google.com/drive/1AcDJ5qYgtt7fnKnweMNtwV0AJOFlFZkB?usp=sharing
+
 
