@@ -35,6 +35,41 @@ Rex's Guide to Preparing a Lab Report
 https://drive.google.com/file/d/196l0JJO8sb0kdSkceEly6b10h0xwng_w/view?usp=sharing
 
 
+## Data Project Format
+Choose at least two categories (ie. cat vs dog) and collect at least 100 images from the internet or with a camera. Make sure to choose a diverse collection of images. On your Google Drive create a new folder called FinalProjectData. In that folder create two new folders one called train and the other called val. In each of those folders create a folder for each catagory. The directory structure should look as follows:
+
+
+FinalProjectData  
+│
+└───train
+│   │
+│   └───cat
+│   |   │   cat1.jpg
+│   |   │   cat2.jpg
+│   |   │   ...
+│   │
+|   |
+│   └───dog
+│       │   dog1.jpg
+│       │   dog2.jpg
+│       │   ...
+│    
+|   
+└───val
+    │
+    └───cat
+    |   │   cat81.jpg
+    |   │   cat82.jpg
+    |   │   ...
+    │
+    |
+    └───dog
+        │   dog81.jpg
+        │   dog82.jpg
+        │   ...
+  
+
+
 ## General Lab Format
 
 For each Lab the following will be submitted the following week to your Github:
