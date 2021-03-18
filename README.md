@@ -40,8 +40,11 @@ Choose at least two categories (ie. cat vs dog) and collect at least 100 images 
 
 
 FinalProjectData  
+
 │
+
 └───train
+
 │   │
 │   └───cat
 │   |   │   cat1.jpg
