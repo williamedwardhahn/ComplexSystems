@@ -38,7 +38,7 @@ https://drive.google.com/file/d/196l0JJO8sb0kdSkceEly6b10h0xwng_w/view?usp=shari
 ## Data Project Format
 Choose at least two categories (ie. cat vs dog) and collect at least 100 images from the internet or with a camera. Make sure to choose a diverse collection of images. On your Google Drive create a new folder called FinalProjectData. In that folder create two new folders one called train and the other called val. In each of those folders create a folder for each catagory. The directory structure should look as follows:
 
-
+<a href='https://github.com/williamedwardhahn/ComplexSystems/blob/main/directory%20structure.txt'>Example</a> 
 
   
 
