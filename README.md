@@ -41,7 +41,8 @@ Choose at least two categories (ie. cat vs dog) and collect at least 100 images 
 <a href='https://github.com/williamedwardhahn/ComplexSystems/blob/main/directory%20structure.txt'>Example</a> 
 
 <a href='https://drive.google.com/drive/folders/1Je_gRF8RnhszAAbQhw2IzqM2_7byPVtL?usp=sharing'>Ants and Bees</a>
-  
+
+<a href='https://colab.research.google.com/drive/1qX1Y1bB5bQD8qFINNdkxM1zhSWwofi0e?usp=sharing'>Final Project Notebook</a>
 
 
 ## General Lab Format
