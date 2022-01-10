@@ -161,6 +161,8 @@ https://docs.google.com/presentation/d/1dhsaqSF3eITIOZq_CN3nxSEjZAp4suaW9tiyCcKL
 
 * Chua Slides https://drive.google.com/file/d/16G51ZyhgBZmQL8ytAjJAfmQhH1ZdKkpC/view?usp=sharing
 
+* CA Circuits https://powdertoy.co.uk/Wiki/W/Complete_Electronics_Tutorial.html
+
 ## Notebooks
 
 Random Walk - https://colab.research.google.com/drive/1uaxnLSrwAoNLoxNVHiniaZ-bSAjmtSIx?usp=sharing
