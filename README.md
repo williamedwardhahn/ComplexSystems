@@ -248,6 +248,7 @@ RAM Model - https://colab.research.google.com/drive/1AcDJ5qYgtt7fnKnweMNtwV0AJOF
 * http://fab.cba.mit.edu/classes/862.16/notes/computation/vonNeumann-1956.pdf
 * https://static.ias.edu/pitp/archive/2012files/Probabilistic_Logics.pdf
 * https://apps.dtic.mil/sti/citations/ADA238632
+* https://phoenixnap.dl.sourceforge.net/project/thinking-forth/reprint/rel-1.0/thinking-forth-color.pdf
 
 * Robot https://drive.google.com/file/d/1F1CgQAp_HFk6IIQojPPFfdvPYq_pctMA/view?usp=sharing
 * Artificial Minds https://drive.google.com/file/d/1H4Qgx-7RxgEybydoPP_bMIIUaqWFFP9Q/view?usp=sharing
