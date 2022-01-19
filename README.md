@@ -236,3 +236,13 @@ Alexnet - https://colab.research.google.com/drive/1dTvnh39fHOtMABnUtNJW_ylZoEZze
 RAM Model - https://colab.research.google.com/drive/1AcDJ5qYgtt7fnKnweMNtwV0AJOFlFZkB?usp=sharing
 
 
+# Vivarium Simulation
+* Aquarium / Terrarium
+* Custom Projects
+
+* https://en.wikipedia.org/wiki/El-Fish
+* https://en.wikipedia.org/wiki/Automata_theory
+* https://www.youtube.com/playlist?list=PLWmIsQcAzRkpociKv668QO7Zu1u3ZXDKc
+* https://www.collectorsweekly.com/articles/ancient-androids/?platform=hootsuite
+* http://www.gbv.de/dms/mpib-toc/43118156X.pdf
+
