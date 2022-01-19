@@ -246,4 +246,5 @@ RAM Model - https://colab.research.google.com/drive/1AcDJ5qYgtt7fnKnweMNtwV0AJOF
 * https://www.collectorsweekly.com/articles/ancient-androids/?platform=hootsuite
 * http://www.gbv.de/dms/mpib-toc/43118156X.pdf
 * http://fab.cba.mit.edu/classes/862.16/notes/computation/vonNeumann-1956.pdf
+* https://static.ias.edu/pitp/archive/2012files/Probabilistic_Logics.pdf
 
